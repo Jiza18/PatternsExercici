@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlertDialog/AlertDialog.iml" filepath="$PROJECT_DIR$/AlertDialog/AlertDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Computer/Computer.iml" filepath="$PROJECT_DIR$/Computer/Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameManager/GameManager.iml" filepath="$PROJECT_DIR$/GameManager/GameManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guess Event/Guess Event.iml" filepath="$PROJECT_DIR$/Guess Event/Guess Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplier/Multiplier.iml" filepath="$PROJECT_DIR$/Multiplier/Multiplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternsExercici.iml" filepath="$PROJECT_DIR$/PatternsExercici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pinger/Pinger.iml" filepath="$PROJECT_DIR$/Pinger/Pinger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrinterSpooler/PrinterSpooler.iml" filepath="$PROJECT_DIR$/PrinterSpooler/PrinterSpooler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLConnection/SQLConnection.iml" filepath="$PROJECT_DIR$/SQLConnection/SQLConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorLogger/SensorLogger.iml" filepath="$PROJECT_DIR$/SensorLogger/SensorLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextBox/TextBox.iml" filepath="$PROJECT_DIR$/TextBox/TextBox.iml" />
+    </modules>
+  </component>
+</project>
